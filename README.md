@@ -5,7 +5,7 @@
 | No | Questions | 
 | --- | --- |
 || **Input & Output System** | 
-| 1 | [Top 100 React & Redux Interview Question Answers](https://www.maheshbhusanoor.com/article/top-100-react-redux-interview-question-answers.html)  | 
+| 1 | [Top 100 React & Redux Interview Question Answers](https://www.maheshbhusanoor.com/article/top-100-react-redux-interview-question-answers.html {target="_blank"})  | 
 | 2 | [Make Capital case to Lower](#make-capital-case-to-lower)|
 | 3 | [Convert Decimal to Hexa Decimal](#decimal-to-hexa-decimal)|
 | 4 | [Sum 2 numbers from inputs](#sum-2-numbers-from-inputs)|
