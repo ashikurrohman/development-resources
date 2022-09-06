@@ -6,7 +6,7 @@
 | --- | --- |
 || **Input & Output System** | 
 | 1 | [Top 100 React & Redux Interview Question Answers](https://www.maheshbhusanoor.com/article/top-100-react-redux-interview-question-answers.html)| 
-| 2 | [Make Capital case to Lower](#make-capital-case-to-lower)|
+| 2 | [JavaScript Problem Solving DSA](https://baffinlee.com/leetcode-javascript/)|
 | 3 | [Convert Decimal to Hexa Decimal](#decimal-to-hexa-decimal)|
 | 4 | [Sum 2 numbers from inputs](#sum-2-numbers-from-inputs)|
 | 5 | [Average number from inputs](#average-number-from-inputs)|
