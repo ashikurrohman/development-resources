@@ -8,7 +8,7 @@
 | 1 | [Top 100 React & Redux Interview Question Answers](https://www.maheshbhusanoor.com/article/top-100-react-redux-interview-question-answers.html)| 
 | 2 | [JavaScript Problem Solving DSA](https://baffinlee.com/leetcode-javascript/)|
 | 3 | [Convert Decimal to Hexa Decimal](#decimal-to-hexa-decimal)|
-| 4 | [Sum 2 numbers from inputs](#sum-2-numbers-from-inputs)|
+| 4 | [Some Javascript Problems to solve](https://codetogo.io/javascript/)|
 | 5 | [Average number from inputs](#average-number-from-inputs)|
 | 6 | [Area of a triangle by height & weight](#area-of-a-triangle-from-inputs)|
 | 7 | [Length of 3 sides of triangle](#length-of-3-sides-of-a-triangle ) | 
